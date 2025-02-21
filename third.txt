@@ -1,2 +1,7 @@
 This is the third file from central repo
+<<<<<<< Updated upstream
 Rohit is champ from central
+=======
+
+virat is champ from local
+>>>>>>> Stashed changes
